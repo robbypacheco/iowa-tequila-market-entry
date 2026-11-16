@@ -1,0 +1,404 @@
+{
+  "rows": 2622712,
+  "stores": 1948,
+  "cutoff_cents": 19454399,
+  "eligible": 245,
+  "targets": [
+    [
+      6690964,
+      "2593",
+      "Hy-Vee Food Store / Carroll",
+      "Carroll",
+      176220105,
+      7544373
+    ],
+    [
+      6512975,
+      "5666",
+      "Costco Wholesale #1325 / Davenport",
+      "Davenport",
+      177848471,
+      7853904
+    ],
+    [
+      6505175,
+      "2663",
+      "Hy-Vee Food Store / Urbandale",
+      "Urbandale",
+      318855126,
+      19252443
+    ]
+  ],
+  "families": {
+    "Liqueurs & schnapps": 6523193925,
+    "Vodka": 9231966576,
+    "Whiskey": 13722002559,
+    "Specialty & other": 1806556313,
+    "Rum": 4109202145,
+    "Brandy": 2121131082,
+    "Tequila": 3458449125,
+    "Gin": 970645844,
+    "Cocktails / RTD": 869205971
+  },
+  "category_map": [
+    [
+      "100% Agave Tequila",
+      "Tequila",
+      2391592889
+    ],
+    [
+      "Aged Dark Rum",
+      "Rum",
+      107338753
+    ],
+    [
+      "American Brandies",
+      "Brandy",
+      521603332
+    ],
+    [
+      "American Cordials & Liqueur",
+      "Liqueurs & schnapps",
+      425995223
+    ],
+    [
+      "American Cordials & Liqueurs",
+      "Liqueurs & schnapps",
+      3368784
+    ],
+    [
+      "American Distilled Spirit Specialty",
+      "Specialty & other",
+      148572820
+    ],
+    [
+      "American Distilled Spirits Specialty",
+      "Specialty & other",
+      1224918
+    ],
+    [
+      "American Dry Gins",
+      "Gin",
+      371278080
+    ],
+    [
+      "American Flavored Vodka",
+      "Vodka",
+      1053728485
+    ],
+    [
+      "American Schnapps",
+      "Liqueurs & schnapps",
+      656122437
+    ],
+    [
+      "American Sloe Gins",
+      "Liqueurs & schnapps",
+      3166635
+    ],
+    [
+      "American Vodka",
+      "Vodka",
+      3007676
+    ],
+    [
+      "American Vodkas",
+      "Vodka",
+      6141033448
+    ],
+    [
+      "American Whiskies",
+      "Whiskey",
+      188100
+    ],
+    [
+      "Blended Whiskies",
+      "Whiskey",
+      1263551485
+    ],
+    [
+      "Bottled in Bond Bourbon",
+      "Whiskey",
+      69470127
+    ],
+    [
+      "Canadian Whiskies",
+      "Whiskey",
+      4739265567
+    ],
+    [
+      "Cocktails / RTD",
+      "Cocktails / RTD",
+      74100
+    ],
+    [
+      "Cocktails /RTD",
+      "Cocktails / RTD",
+      869131871
+    ],
+    [
+      "Coffee Liqueurs",
+      "Liqueurs & schnapps",
+      212604954
+    ],
+    [
+      "Corn Whiskies",
+      "Whiskey",
+      44221252
+    ],
+    [
+      "Cream Liqueurs",
+      "Liqueurs & schnapps",
+      886091894
+    ],
+    [
+      "Distilled Spirits Specialty",
+      "Specialty & other",
+      2807000
+    ],
+    [
+      "Flavored Gin",
+      "Gin",
+      38805654
+    ],
+    [
+      "Flavored Rum",
+      "Rum",
+      902351159
+    ],
+    [
+      "Gold Rum",
+      "Rum",
+      116258567
+    ],
+    [
+      "Imported Brandies",
+      "Brandy",
+      1599527750
+    ],
+    [
+      "Imported Cordials & Liqueur",
+      "Liqueurs & schnapps",
+      85702849
+    ],
+    [
+      "Imported Cordials & Liqueurs",
+      "Liqueurs & schnapps",
+      1034981015
+    ],
+    [
+      "Imported Distilled Spirit Specialty",
+      "Specialty & other",
+      218561935
+    ],
+    [
+      "Imported Distilled Spirits Specialty",
+      "Specialty & other",
+      1294272
+    ],
+    [
+      "Imported Dry Gins",
+      "Gin",
+      560243438
+    ],
+    [
+      "Imported Flavored Vodka",
+      "Vodka",
+      578518429
+    ],
+    [
+      "Imported Gins",
+      "Gin",
+      318672
+    ],
+    [
+      "Imported Schnapps",
+      "Liqueurs & schnapps",
+      663774261
+    ],
+    [
+      "Imported Vodka",
+      "Vodka",
+      6557550
+    ],
+    [
+      "Imported Vodkas",
+      "Vodka",
+      1449120988
+    ],
+    [
+      "Imported Whiskies",
+      "Whiskey",
+      551880
+    ],
+    [
+      "Irish Whiskies",
+      "Whiskey",
+      923846583
+    ],
+    [
+      "Mezcal",
+      "Specialty & other",
+      43072773
+    ],
+    [
+      "Mixto Tequila",
+      "Tequila",
+      1066856236
+    ],
+    [
+      "Neutral Grain Spirits",
+      "Specialty & other",
+      64221292
+    ],
+    [
+      "Neutral Grain Spirits Flavored",
+      "Specialty & other",
+      157038839
+    ],
+    [
+      "Scotch Whiskies",
+      "Whiskey",
+      571987057
+    ],
+    [
+      "Single Barrel Bourbon Whiskies",
+      "Whiskey",
+      106657446
+    ],
+    [
+      "Single Malt Scotch",
+      "Whiskey",
+      445487936
+    ],
+    [
+      "Special Order Items",
+      "Specialty & other",
+      152359460
+    ],
+    [
+      "Spiced Rum",
+      "Rum",
+      2312317707
+    ],
+    [
+      "Straight Bourbon Whiskies",
+      "Whiskey",
+      3449825483
+    ],
+    [
+      "Straight Rye Whiskies",
+      "Whiskey",
+      479349638
+    ],
+    [
+      "Temporary  & Specialty Packages",
+      "Specialty & other",
+      27531
+    ],
+    [
+      "Temporary &  Specialty Packages",
+      "Specialty & other",
+      222465812
+    ],
+    [
+      "Temporary & Specialty Packages",
+      "Specialty & other",
+      794909661
+    ],
+    [
+      "Tennessee Whiskies",
+      "Whiskey",
+      1627600005
+    ],
+    [
+      "Triple Sec",
+      "Liqueurs & schnapps",
+      84820802
+    ],
+    [
+      "Whiskey Liqueur",
+      "Liqueurs & schnapps",
+      2466565071
+    ],
+    [
+      "White Rum",
+      "Rum",
+      670935959
+    ]
+  ],
+  "months": [
+    [
+      1,
+      96546,
+      203260554,
+      2866565986
+    ],
+    [
+      2,
+      107584,
+      216469988,
+      2961780595
+    ],
+    [
+      3,
+      129020,
+      272336503,
+      3665482886
+    ],
+    [
+      4,
+      145995,
+      292107945,
+      3473492183
+    ],
+    [
+      5,
+      140780,
+      294272818,
+      3365955494
+    ],
+    [
+      6,
+      153193,
+      337471969,
+      3889092925
+    ],
+    [
+      7,
+      138302,
+      286616033,
+      3517646762
+    ],
+    [
+      8,
+      150150,
+      324787386,
+      3650179874
+    ],
+    [
+      9,
+      128423,
+      282129067,
+      3583706102
+    ],
+    [
+      10,
+      136111,
+      301498698,
+      3808576236
+    ],
+    [
+      11,
+      129555,
+      305338054,
+      3800797791
+    ],
+    [
+      12,
+      161213,
+      342160110,
+      4229076706
+    ]
+  ]
+}
